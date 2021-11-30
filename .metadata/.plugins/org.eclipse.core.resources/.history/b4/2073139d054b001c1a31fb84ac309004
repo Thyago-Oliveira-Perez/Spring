@@ -1,0 +1,5 @@
+package com.service.order.domain.model;
+
+public class Cliente {
+
+}
